@@ -7,6 +7,14 @@ Ablauf des kompilervorganges
 
 Aufgabe des Garbage Collectors
 
+If Statement anwenden
+
+Schleife ergänzen
+
+Mehrfachverzweigung mit Switch
+
+einfachste Exception Code ergänzen
+
 Anwendung und Beispiel einer geerbten Klasse mit WPF
 
 Anwendung und Beispiel einer partiellen Klasse mit WPF 
@@ -21,9 +29,17 @@ C# String Escape und @ anwenden
 
 C# Datentyp Literale float f,double d,uint u,long l,ulong ul,decimal m
 
+Datentypen convertieren zb String nach int und umgekehrt 
+
+Datentypen convertieren mit Hilfsklassen wie Parse oder TryParse
+
+String Formater für zb Date und Nummerische Typen
+
 Anonyme Methode mit und ohne Paramter Code Ergänzen
 
 Die zwei Anwendungsbereiche von Using beschreiben 
+
+Datei lesen und schreiben Code ergänzen
 
 Verwenden einer Klasse vs statische Methode als Codezeile
 
@@ -37,7 +53,11 @@ Ebent registrieren und deregistrieren, Event Parameter, Methodensignatur
 
 XAML Namensraum, Element, Attribut verwenden anhand Beispiel
 
-Deklarativ instanzieren einer Klasse in XAML
+Deklarativ instanzieren einer Klasse in XAML und Beispiel
+
+Datenbindung eines Viewmodels an eine ListView XAML ergänzen
+
+Converter bei Datenbindung Ziffer in Zeichnfolge konvertieren
 
 Button im C# Code instanziieren und im Grid Container platzieren
 
@@ -61,9 +81,11 @@ Zweck einer ObservableCollection beschreiben
 
 Einfacher Programmcode mit Array und Werten davon Ergebnis berechnen
 
-5 WPF Layoutcontainer und typsicher Einsatzzweck
+5 WPF Layoutcontainer und typischer Einsatzzweck
 
-Klasse mit Funktion vs Property vs Field Unterschied und Beispiel
+Klasse mit Funktion öffentlich und private
+
+Klasse Property vs Field Unterschied und Beispiel
 
 nenne Access Modifier und Bedeutung
 
