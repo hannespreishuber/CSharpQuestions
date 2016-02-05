@@ -3,9 +3,9 @@ C# Fragenkatalog
 
 5 Basisdatentypen in der Base Class Library
 
-Ablauf des kompilervorganges
+Ablauf des kompilervorganges bei einem .net Programm
 
-Aufgabe des Garbage Collectors
+Aufgabe des Garbage Collectors in C#
 
 If Statement anwenden
 
@@ -13,7 +13,7 @@ Schleife ergänzen
 
 Mehrfachverzweigung mit Switch
 
-einfachste Exception Code ergänzen
+einfachen Exception Code ergänzen
 
 Anwendung und Beispiel einer geerbten Klasse mit WPF
 
@@ -29,27 +29,27 @@ C# String Escape und @ anwenden
 
 C# Datentyp Literale float f,double d,uint u,long l,ulong ul,decimal m
 
-Datentypen convertieren zb String nach int und umgekehrt 
+Datentypen konvertieren zb String nach int und umgekehrt 
 
-Datentypen convertieren mit Hilfsklassen wie Parse oder TryParse
+Datentypen konvertieren mit Hilfsklassen wie Parse oder TryParse
 
 String Formater für zb Date und Nummerische Typen
 
-Anonyme Methode mit und ohne Paramter Code Ergänzen
+Anonyme Methode mit und ohne Paramter: Code Ergänzen
 
 Die zwei Anwendungsbereiche von Using beschreiben 
 
-Datei lesen und schreiben Code ergänzen
+Datei lesen und schreiben: Code ergänzen
 
-Verwenden einer Klasse vs statische Methode als Codezeile
+instanzieren einer Klasse vs statische Methode als Codezeile
 
 Extension Methode auf einen bestimmten Base Datentyp codieren
 
 Klasse mit Property Getter und Setter in Kurz und Langform schreiben
 
-Eventmethoden abonnieren in XAML, per Code, Anonyme Methode als Event
+Eventmethoden (zb Mouseleftbuttondown) abonnieren in XAML, per Code, Anonyme Methode als Event
 
-Ebent registrieren und deregistrieren, Event Parameter, Methodensignatur
+Event registrieren und deregistrieren, Event Parameter, Methodensignatur
 
 XAML Namensraum, Element, Attribut verwenden anhand Beispiel
 
@@ -57,7 +57,7 @@ Deklarativ instanzieren einer Klasse in XAML und Beispiel
 
 Datenbindung eines Viewmodels an eine ListView XAML ergänzen
 
-Converter bei Datenbindung Ziffer in Zeichnfolge konvertieren
+Converter bei Datenbindung Ziffer in Zeichenfolge konvertieren
 
 Button im C# Code instanziieren und im Grid Container platzieren
 
@@ -67,7 +67,7 @@ Interface INotifyPropertyChanged anwenden
 
 Interface ICommand anwenden
 
-Interface IValueConvertert anwenden
+Interface IValueConverter anwenden
 
 Interface IDisposable Zweck und Anwendung
 
@@ -79,15 +79,15 @@ generische Liste deklarieren und befüllen
 
 Zweck einer ObservableCollection beschreiben
 
-Einfacher Programmcode mit Array und Werten davon Ergebnis berechnen
+Einfacher Programmcode mit Array und Werten: davon Ergebnis berechnen
 
 5 WPF Layoutcontainer und typischer Einsatzzweck
 
-Klasse mit Funktion öffentlich und private
+Klasse mit Funktion öffentlich und private : schreiben und lesen können
 
 Klasse Property vs Field Unterschied und Beispiel
 
-nenne Access Modifier und Bedeutung
+nenne Access Modifier und deren Einsatz bzw. Bedeutung
 
 Gültigkeit einer Variable, Beispiel Code, Ergebnis berechnen
 
@@ -99,13 +99,13 @@ Background Thread mit Dispatcher und UI Thread synchronisieren
 
 Dispatcher Timer Code ergänzen
 
-Eckpunkte von REST
+vier charakteristische Merkmale (Eckpunkte) von REST
 
 HTTP Verben und Anwendung 
 
-Objekte nach JOSN Serialisieren und Deserialisieren konzeptionell Schritt für Schritt (Kein Code)
+Objekte nach JSON Serialisieren und Deserialisieren konzeptionell Schritt für Schritt (Kein Code)
 
-Code vervollständigen für Rest Service Aufruf
+Code vervollständigen für REST Service Aufruf per httpclient Klasse
 
 
 
