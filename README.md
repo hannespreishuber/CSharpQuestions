@@ -87,7 +87,7 @@ Klasse mit Funktion öffentlich und private : schreiben und lesen können
 
 Klasse Property vs Field Unterschied und Beispiel
 
-nenne Access Modifier und deren Einsatz bzw. Bedeutung
+vier Access Modifier und deren Einsatz bzw. Bedeutung protected,private,public, internal
 
 Gültigkeit einer Variable, Beispiel Code, Ergebnis berechnen
 
